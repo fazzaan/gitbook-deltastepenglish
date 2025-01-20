@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Learn with DeltaStep English online](README.md)
